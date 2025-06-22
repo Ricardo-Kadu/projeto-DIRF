@@ -82,7 +82,3 @@ Este projeto é destinado ao uso pessoal e educacional. Não substitui a orienta
 ---
 
 
-
-
-
-
